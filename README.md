@@ -12,7 +12,7 @@
 
  * Get a first movie offer, and let yourself *go with the flow* to find **the** movie made for ***you*** tonight!
 
-* Using the [RottenTomatoes](http://www.rottentomatoes.com/) API, *WTF Should I Watch* has **thousands of movies** in stores for you tonight, and a unique way to present them to you. Get a random proposition and refine the offers to your liking, of simply choose to be surprise and watch something random!
+* Using the [RottenTomatoes](http://www.rottentomatoes.com/) API, *WTF Should I Watch* has **thousands of movies** in stores for you tonight, and a unique way to present them to you. Get a random proposition and refine the offers to your liking, of simply choose to be surprised and watch something random!
 		
   * Save the movies you watched to your personnal database, mark those you want to find again later, and rate the movie you just watched!
   * TV Shows coming soon!
